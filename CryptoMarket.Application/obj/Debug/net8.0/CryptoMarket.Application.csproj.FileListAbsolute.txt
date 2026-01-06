@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\bin\Debug\net8.0\CryptoMarket.Application.deps.json
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\bin\Debug\net8.0\CryptoMarket.Application.dll
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\bin\Debug\net8.0\CryptoMarket.Application.pdb
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\bin\Debug\net8.0\CryptoMarket.Domain.dll
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\bin\Debug\net8.0\CryptoMarket.Domain.pdb
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.AssemblyInfo.cs
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMa.A892DDD9.Up2Date
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.dll
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\refint\CryptoMarket.Application.dll
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\CryptoMarket.Application.pdb
+C:\Users\pc\source\repos\CryptoMarket\CryptoMarket.Application\obj\Debug\net8.0\ref\CryptoMarket.Application.dll

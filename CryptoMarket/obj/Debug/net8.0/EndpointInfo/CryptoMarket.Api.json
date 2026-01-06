@@ -1,0 +1,106 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CryptoMarket.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Market/symbols": {
+      "get": {
+        "tags": [
+          "Market"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Market/symbols/refresh": {
+      "post": {
+        "tags": [
+          "Market"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Market/prices": {
+      "get": {
+        "tags": [
+          "Market"
+        ],
+        "parameters": [
+          {
+            "name": "symbols",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Market/candles/{symbol}": {
+      "get": {
+        "tags": [
+          "Market"
+        ],
+        "parameters": [
+          {
+            "name": "symbol",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "interval",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "1m"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 100
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Market/market/refresh": {
+      "post": {
+        "tags": [
+          "Market"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

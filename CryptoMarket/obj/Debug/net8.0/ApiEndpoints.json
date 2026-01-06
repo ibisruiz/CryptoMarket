@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "CryptoMarket.Api.Controllers.MarketController",
+    "Method": "GetCandles",
+    "RelativePath": "api/Market/candles/{symbol}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "interval",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CryptoMarket.Api.Controllers.MarketController",
+    "Method": "RefreshMarket",
+    "RelativePath": "api/Market/market/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CryptoMarket.Api.Controllers.MarketController",
+    "Method": "GetPrices",
+    "RelativePath": "api/Market/prices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbols",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CryptoMarket.Api.Controllers.MarketController",
+    "Method": "GetSymbols",
+    "RelativePath": "api/Market/symbols",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CryptoMarket.Api.Controllers.MarketController",
+    "Method": "RefreshSymbols",
+    "RelativePath": "api/Market/symbols/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

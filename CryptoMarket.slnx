@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CryptoMarket.Application/CryptoMarket.Application.csproj" />
+    <Project Path="CryptoMarket.Domain/CryptoMarket.Domain.csproj" />
+    <Project Path="CryptoMarket.Infrastructure/CryptoMarket.Infrastructure.csproj" />
+    <Project Path="CryptoMarket/CryptoMarket.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="CryptoMarket.Tests/CryptoMarket.Tests.csproj" />
+  </Folder>
+</Solution>

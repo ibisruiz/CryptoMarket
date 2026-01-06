@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925EAAA1-3C43-29E3-7382-010B01D0E2D4}|CryptoMarket.Tests\\CryptoMarket.Tests.csproj|c:\\users\\pc\\source\\repos\\cryptomarket\\cryptomarket.tests\\services\\marketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925EAAA1-3C43-29E3-7382-010B01D0E2D4}|CryptoMarket.Tests\\CryptoMarket.Tests.csproj|solutionrelative:cryptomarket.tests\\services\\marketservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9C265-8668-FA3C-5763-43B89E4598FE}|CryptoMarket.Infrastructure\\CryptoMarket.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\cryptomarket\\cryptomarket.infrastructure\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9C265-8668-FA3C-5763-43B89E4598FE}|CryptoMarket.Infrastructure\\CryptoMarket.Infrastructure.csproj|solutionrelative:cryptomarket.infrastructure\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE9C265-8668-FA3C-5763-43B89E4598FE}|CryptoMarket.Infrastructure\\CryptoMarket.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\cryptomarket\\cryptomarket.infrastructure\\clients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE9C265-8668-FA3C-5763-43B89E4598FE}|CryptoMarket.Infrastructure\\CryptoMarket.Infrastructure.csproj|solutionrelative:cryptomarket.infrastructure\\clients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Infrastructure\\Services\\MarketService.cs",
+              "RelativeDocumentMoniker": "CryptoMarket.Infrastructure\\Services\\MarketService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Infrastructure\\Services\\MarketService.cs",
+              "RelativeToolTip": "CryptoMarket.Infrastructure\\Services\\MarketService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAwwKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T03:51:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Infrastructure\\Clients\\BinanceClient.cs",
+              "RelativeDocumentMoniker": "CryptoMarket.Infrastructure\\Clients\\BinanceClient.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Infrastructure\\Clients\\BinanceClient.cs",
+              "RelativeToolTip": "CryptoMarket.Infrastructure\\Clients\\BinanceClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T01:11:31.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Tests\\Services\\MarketServiceTests.cs",
+              "RelativeDocumentMoniker": "CryptoMarket.Tests\\Services\\MarketServiceTests.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CryptoMarket\\CryptoMarket.Tests\\Services\\MarketServiceTests.cs",
+              "RelativeToolTip": "CryptoMarket.Tests\\Services\\MarketServiceTests.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAQwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T01:09:27.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

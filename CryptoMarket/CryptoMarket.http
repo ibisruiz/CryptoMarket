@@ -1,0 +1,6 @@
+@CryptoMarket_HostAddress = http://localhost:5241
+
+GET {{CryptoMarket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
